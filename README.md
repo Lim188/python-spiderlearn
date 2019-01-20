@@ -1,5 +1,4 @@
 # python-spiderlearn
 
-爬虫
+关于爬虫的一些代码
 
-实践小项目
